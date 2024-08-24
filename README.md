@@ -10,6 +10,12 @@ use degit
 npx degit proofgeist/ts-script-starter my-project
 ```
 
+## copy env-starter to .env
+
+```bash
+cp env-starter .env
+```
+
 ## Install dependencies
 
 ```bash
