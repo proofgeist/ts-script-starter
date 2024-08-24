@@ -27,3 +27,12 @@ npm install
 ```bash
 npm run ts
 ```
+
+## Tests
+
+```bash
+npm run test
+```
+
+Test setup is from
+https://nodejs.org/en/learn/test-runner/using-test-runner
